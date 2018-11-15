@@ -5,6 +5,7 @@ public class Hangman1 {
 
     public static void main ( String[] args ) {
 
+        
         int mistakes = 0;
         String userGuess = null;
         int tries = 15;
